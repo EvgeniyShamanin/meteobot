@@ -1,0 +1,1 @@
+sudo mongorestore --db meteo --drop /home/evgeniy/mongobackups/meteo/
